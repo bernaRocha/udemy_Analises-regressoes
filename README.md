@@ -1,4 +1,4 @@
-# Udemy Análises de regressões cpm Python
+# Udemy Análises de regressões com Python
 Curso da Udemy de Estatística : Análises de Regressões com Python
 
 . Link pro [curso](https://www.udemy.com/course/estatistica-analises-de-regressoes-com-python/) <br>
